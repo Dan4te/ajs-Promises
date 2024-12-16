@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/70qrkcnt85f8ao1h?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs-async-await)
 
 # Домашнее задание к лекции «Promises, async/await»
 
